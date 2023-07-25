@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0866f5e3dd09de549a5c3cf1893ac350, type: 3}
+  m_Name: BasicPreset
+  m_EditorClassIdentifier: 
+  m_presets: 1
+  m_moveSpeed: 25
+  m_sprintMultiplicator: 2
+  m_dashForce: 75
+  m_dashTime: 0.2
+  m_jumpForce: 8
+  m_gravityMultiplier: 4
